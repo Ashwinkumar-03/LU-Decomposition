@@ -20,8 +20,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```python
 '''
 Program to find L and U matrix using LU decomposition.
-Developed by:Abishek Xavier A
-RegisterNumber: 22008833
+Developed by:Ashwin Kumar.S
+RegisterNumber: 22000974
 '''
 
 import numpy as np
@@ -35,8 +35,8 @@ print(U)
 ```python
 '''
 Program to solve a matrix using LU decomposition.
-Developed by:Abishek Xavier A
-RegisterNumber: 22008833
+Developed by:Ashwin Kumar.S
+RegisterNumber: 22000974
 '''
 
 # To print X matrix (solution to the equations)
